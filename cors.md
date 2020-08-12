@@ -1,3 +1,13 @@
+---
+title: Access control allow origin
+author: Aquif Zubair
+date: 2020-08-14
+hero: 
+slug: access-control-allow-origin
+excerpt: In this article, we will get to know what is access control allow origin.
+
+---
+
 # Access control allow origin
 
 For understanding the concept of **access control allow origin**, we will have to learn that from where it is coming, where are we using this. For that, We will have to learn **Cross-Origin Resource Sharing(CORS)**.
